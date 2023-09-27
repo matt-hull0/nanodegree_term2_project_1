@@ -19,16 +19,17 @@ I was keen to check out a new data source I have not seen before, so opted for t
 
  ## Files
 
- .
-├── README.md
-├── data
-│   └── seattle_airbnb_open_data
-│       ├── calendar.csv
-│       ├── listings.csv
-│       └── reviews.csv
-├── notebook.ipynb
-├── poetry.lock
-└── pyproject.toml
+
+    ├── README.md
+    ├── data
+    │   └── seattle_airbnb_open_data
+    │       ├── calendar.csv
+    │       ├── listings.csv
+    │       └── reviews.csv
+    ├── notebook.ipynb
+    ├── poetry.lock
+    └── pyproject.toml
+
 
 The data folder contains the data used in the analysis, taken from [kaggle](https://www.kaggle.com/datasets/airbnb/seattle/):
 
