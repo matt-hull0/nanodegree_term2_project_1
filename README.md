@@ -3,7 +3,7 @@
 This repo is for the Udacity Datascience Nanodegree Term 2 Project 1, where data from Airbnb has been analysed.
 
 Specifically data from Seattle, where business questions have been proposed and a Jupyter notebook used to answer them.
-A blog post has also been written to share the results.
+A blog post has also been written to share the resultsm and can be found [here](https://medium.com/@matthewhull56/this-is-why-airbnb-owners-want-your-good-reviews-7781ab4aaaa9)
 
 ## Libraries Used
 
